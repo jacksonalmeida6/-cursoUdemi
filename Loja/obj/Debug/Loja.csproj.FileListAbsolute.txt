@@ -1,0 +1,5 @@
+c:\users\jackson.oliveira\documents\visual studio 2013\Projects\Loja\Loja\bin\Debug\Loja.exe.config
+c:\users\jackson.oliveira\documents\visual studio 2013\Projects\Loja\Loja\bin\Debug\Loja.exe
+c:\users\jackson.oliveira\documents\visual studio 2013\Projects\Loja\Loja\bin\Debug\Loja.pdb
+c:\users\jackson.oliveira\documents\visual studio 2013\Projects\Loja\Loja\obj\Debug\Loja.exe
+c:\users\jackson.oliveira\documents\visual studio 2013\Projects\Loja\Loja\obj\Debug\Loja.pdb
